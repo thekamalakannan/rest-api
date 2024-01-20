@@ -21,6 +21,13 @@
             <version>4.5.13</version>
         </dependency>
 
+        <!--     string to JSON object conversion     -->
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.12.5</version>
+        </dependency>
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
