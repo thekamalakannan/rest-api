@@ -1,9 +1,8 @@
-
-
 import com.fasterxml.jackson.databind.ObjectMapper;
 import olsol.bean.Todo;
 import olsol.flow.RestClient;
 import org.junit.Test;
+
 import java.io.IOException;
 
 import static org.junit.Assert.assertEquals;
